@@ -1,0 +1,35 @@
+node_modules/
+target/
+dist/
+reports/
+.env
+!.env.example
+.terraform/
+*.tfstate*
+*.tfplan
+local.properties
+.gradle/
+**/build/
+*.jks
+*.keystore
+
+# Local tools, build products and credentials
+node_modules/
+target/
+dist/
+__pycache__/
+.venv/
+.env
+!.env.example
+.terraform/
+*.tfstate*
+*.tfplan
+terraform.tfvars
+!terraform.tfvars.example
+hosts.ini
+*.pem
+*.key
+
+# Local editor settings
+.idea/
+*.iml
