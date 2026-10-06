@@ -1,1 +1,1 @@
-Release message: Ready for delivery v1.0.0
+Release message: Bereit zur Auslieferung v1.0.0
